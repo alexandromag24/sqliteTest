@@ -1,0 +1,4 @@
+C:\Users\alejandro.perez\source\repos\sqliteTest\sqliteTest\obj\Debug\netcoreapp2.2\sqliteTest.csprojAssemblyReference.cache
+C:\Users\alejandro.perez\source\repos\sqliteTest\sqliteTest\obj\Debug\netcoreapp2.2\sqliteTest.AssemblyInfoInputs.cache
+C:\Users\alejandro.perez\source\repos\sqliteTest\sqliteTest\obj\Debug\netcoreapp2.2\sqliteTest.AssemblyInfo.cs
+C:\Users\alejandro.perez\source\repos\sqliteTest\sqliteTest\obj\Debug\netcoreapp2.2\sqliteTest.csproj.CoreCompileInputs.cache
